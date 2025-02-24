@@ -25,3 +25,28 @@ Overview:
 
 =================
 <p align="justify">In short, tic-tac-toe and the minimax algorithm are a perfect pair to demonstrate the ability of artificial intelligence to make strategic decisions in a simple yet challenging environment. By understanding this application, we can appreciate the sophistication of AI algorithms and their importance in a variety of areas, from games to real-world problems.</p>
+
+<h3>How to Play?</h3>
+=================
+
+<p align="justify">The board with the squares will appear on the home screen. First select the difficulty, choosing the specific number.</p>
+<p align="justify">0 - I want my mother</p>
+<p align="justify">1 - I still wet the bed</p>
+<p align="justify">2 - I'm Batman!</p>
+<p align="justify">3 - Birl! Chuck Norris!</p>
+
+<img src="img/inicio.png" width="300">
+
+<p align="justify">After selecting the difficulty, choose whether you want to start the game:</p>
+<p align="justify">0 - Yes</p>
+<p align="justify">1 - No</p>
+
+<img src="img/jogador.png" width="300">
+
+<p align="justify">Then the board will appear. Type your move in the 'move' field. For example, a1, which corresponds to square a1 on the board.</p>
+
+<img src="img/move.png" width="300">
+
+<p align="justify">After that, the machine will execute its move. After that, it will be yours again. Keep playing until you reach the end of the game.</p>
+
+<img src="img/final.png" width="300">
