@@ -29,6 +29,8 @@ Overview:
 <h3>How to Play?</h3>
 =================
 
+<p align="justify">First, run the file "Program.py"!</p>
+
 <p align="justify">The board with the squares will appear on the home screen. First select the difficulty, choosing the specific number.</p>
 <p align="justify">0 - I want my mother</p>
 <p align="justify">1 - I still wet the bed</p>
