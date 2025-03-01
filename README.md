@@ -1,6 +1,6 @@
 <h1 align="center">Tic Tac in Python</h1>
 
-Overview:
+<h3>Overview</h3>
 =================
 
 <p align="justify">Introduction to Artificial Intelligence. Implementation of the old-fashioned game in Python language, for the Artificial Intelligence course.</p>
@@ -22,8 +22,6 @@ Overview:
 <p align="justify">Limited search space: Tic-tac-toe has a relatively small number of possible states, making full exploration of the game tree feasible.</p>
 <p align="justify">Complete information: Both players have complete knowledge of the game state at any given time.</p>
 <p align="justify">Zero-sum game: What one player wins, the other loses.</p>
-
-=================
 <p align="justify">In short, tic-tac-toe and the minimax algorithm are a perfect pair to demonstrate the ability of artificial intelligence to make strategic decisions in a simple yet challenging environment. By understanding this application, we can appreciate the sophistication of AI algorithms and their importance in a variety of areas, from games to real-world problems.</p>
 
 <h3>How to Play?</h3>
